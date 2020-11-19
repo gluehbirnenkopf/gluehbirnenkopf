@@ -1,4 +1,4 @@
-<h3 align="center">Hello World!</h3>
+<h3 align="left">Hello World!</h3>
 
 - 🔭 I’m currently working as **Site Reliability Engineer / Architect**
 
@@ -7,8 +7,6 @@
 - 💬 Ask me about **jenkins, kubernetes, CI/CD, unix, docker, groovy, helm**
 
 - 📫 How to reach me **leon@leongregori.com**
-
-- 📄 Know about my experiences [https://leon-gregori.com](https://leon-gregori.com)
 
 - ⚡ Fun fact **Some years ago I repaired an on-premise Server.**
 
