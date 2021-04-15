@@ -1,14 +1,14 @@
 <h3 align="left">Hello World!</h3>
 
-- 🔭 I’m currently working as **Site Reliability Engineer / Architect**
+- 🔭 I’m currently working as **Site Reliability Engineer / Cloud Solution Architect**
 
 - 🌱 I’m currently learning **GitHub Actions, AWS, Spring**
 
-- 💬 Ask me about **jenkins, kubernetes, aws, CI/CD, unix, docker, groovy, helm**
+- 💬 Ask me about **kubernetes, openshift, jenkins, aws, CI/CD, unix, docker, groovy, helm, terraform**
 
 - 📫 How to reach me **leon@leongregori.com**
 
-- ⚡ Fun fact **Some years ago I repaired an on-premise Server.**
+- ⚡ Fun fact **Some decades ago I repaired on-premise Servers and catched a cold while working in those server rooms.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
