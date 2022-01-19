@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **kubernetes, openshift, jenkins, aws, CI/CD, unix, docker, groovy, helm, terraform**
 
-- 📫 How to reach me **leon@leongregori.com**
-
 - ⚡ Fun fact **Some decades ago I repaired on-premise Servers and catched a cold while working in those server rooms.**
 
 <p align="left">
